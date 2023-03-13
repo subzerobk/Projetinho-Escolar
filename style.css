@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+
+    padding: 20px;
+}
+
+.header-content {
+    text-align: center;
+}
+
+.line {
+    width: 50%;
+    background-color: black;
+    padding: .1px;
+}
+
+.lineVert {
+    height: 100vh;
+    background-color: black;
+    padding: .1px;
+
+    margin: 0 12px 0 12px;
+}
